@@ -1,0 +1,16 @@
+*.png
+*.jpg
+*.mat
+*.npy
+*.npz
+*.json
+*.obj
+*.fbx
+*.mtl
+*.txt
+*.zip
+__pycache__/
+.idea/
+*.ply
+
+
